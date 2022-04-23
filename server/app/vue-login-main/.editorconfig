@@ -1,0 +1,10 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+[*]
+indent_style = space
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.{js,json,less,html,vue}]
+indent_size = 2
